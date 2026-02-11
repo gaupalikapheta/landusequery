@@ -1,4 +1,4 @@
-const csvUrl = "https://raw.githubusercontent.com/Devtal-gaupalika/landusequery/refs/heads/main/devtal.csv";
+const csvUrl = "https://raw.githubusercontent.com/gaupalikapheta/landusequery/refs/heads/main/Pheta.csv";
 let csvData = [];
 
 // Fetch CSV data on page load
@@ -141,6 +141,7 @@ function displayResults(results) {
     table.appendChild(tbody);
     resultsDiv.appendChild(table);
 }
+
 
 
 
